@@ -1,8 +1,8 @@
 Name: ProteinFold Dataset
 Description: Compilation of genetic and structure databases and model parameters required to run AlphaFold2, ColabFold and ESMFold through the nf-core/proteinfold pipeline. It includes files from popular biological data resources such as UniProt, PDB, MGnify, BFD and other expandable profile databases as well as parameters from pre-trained deep learning models specialized in predicting highly accurate protein structures from protein sequences.
-Documentation: #TODO
+Documentation: https://docs.google.com/document/d/1qCve2ApxtzsSQA8cs61Ay4oBzU8aPJVeXbmGI853Tq8/edit?usp=sharing
 Contact: [https://github.com/nf-core/proteinfold/issues](https://github.com/nf-core/proteinfold/issues)
-ManagedBy: [Centre for Genomic Regulation (CRG)](https://www.crg.eu/)
+ManagedBy: [Centre for Genomic Regulation - CRG](https://www.crg.eu/)
 UpdateFrequency: New data are added when available.
 Tags:
   - Life sciences
