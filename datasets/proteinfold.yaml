@@ -1,0 +1,38 @@
+Name: ProteinFold Dataset
+Description: Compilation of genetic and structure databases and model parameters required to run [AlphaFold2](https://github.com/deepmind/alphafold), [ColabFold](https://github.com/sokrypton/ColabFold) and [ESMFold](https://github.com/facebookresearch/esm) through the [nf-core/proteinfold pipeline](https://nf-co.re/proteinfold). It includes files from popular biological data resources such as UniProt, PDB, MGnify, BFD and other expandable profile databases as well as parameters from pre-trained deep learning models specialized in predicting highly accurate protein structures from protein sequences.
+Documentation: https://docs.google.com/document/d/1qCve2ApxtzsSQA8cs61Ay4oBzU8aPJVeXbmGI853Tq8/edit?usp=sharing
+Contact: [https://github.com/nf-core/proteinfold/issues](https://github.com/nf-core/proteinfold/issues)
+ManagedBy: [Centre for Genomic Regulation - CRG](https://www.crg.eu/)
+UpdateFrequency: New data are added when available.
+Tags:
+  - Life sciences
+  - Protein structure prediction
+  - nf-core/proteinfold
+  - AlphaFold2
+  - ColabFold
+  - ESMFold
+  - Genetic databases
+  - Structure databases
+  - open source
+License: Multiple - please see data origins.
+Resources:
+  - Description: ProteinFold S3 Bucket
+    ARN: #TODO
+    Region: #TODO
+    Type: #TODO
+    Explore: #TODO
+DataAtWork:
+  Tutorials:
+    - Title: nf-core/proteinfold tutorial
+      URL: https://github.com/nf-core/proteinfold/blob/master/README.md
+      AuthorName: Baltzis, Athanasios; Espinosa-Carrasco, Jose; Santus, Luisa; Mansouri, Leila; Patel, Harshil
+  Tools & Applications:
+    - Title: nf-core/proteinfold
+      URL: https://nf-co.re/proteinfold
+      AuthorName: Baltzis, Athanasios; Espinosa-Carrasco, Jose; Santus, Luisa; Mansouri, Leila; Hermoso Pulido, Antonio; Ponomarenko, Julia, et al
+  Publications:
+    - Title: nf-core/proteinfold: a bioinformatics best-practice analysis pipeline for protein 3D structure prediction
+      URL: https://doi.org/10.5281/zenodo.7437038
+      AuthorName: Baltzis, Athanasios; Espinosa-Carrasco, Jose; Santus, Luisa; Mansouri, Leila; Hermoso Pulido, Antonio; Ponomarenko, Julia, et al
+ADXCategories:
+  - Healthcare & Life Sciences Data
